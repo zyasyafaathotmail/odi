@@ -91,11 +91,8 @@
       "next/core-web-vitals",
       "prettier"
     ]
-  }
-}
-{
+  },
   "engines": {
     "node": "20.x"
   }
 }
-
